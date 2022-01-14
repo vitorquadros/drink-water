@@ -35,6 +35,7 @@
             android:autofillHints="interval" />
 
         <Button
+            android:onClick="notifyClick"
             android:id="@+id/btn_notify"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
