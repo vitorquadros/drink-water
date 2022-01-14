@@ -9,6 +9,7 @@
     <TimePicker
         android:id="@+id/time_picker"
         android:layout_width="0dp"
+        android:headerBackground="@color/colorPrimary"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
